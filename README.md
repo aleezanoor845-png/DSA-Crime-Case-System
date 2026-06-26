@@ -22,5 +22,4 @@ A console-based C++ project built for DSA course.
 - ANSI color codes for UI
 - Visual Studio 2022
 
-## Author
-Aleeza Noor 
+
