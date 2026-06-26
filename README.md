@@ -23,4 +23,4 @@ A console-based C++ project built for DSA course at Air University Islamabad.
 - Visual Studio 2022
 
 ## Author
-Aleeza Noor — Air University Islamabad, BSCS Semester 4
+Aleeza Noor 
