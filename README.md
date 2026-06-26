@@ -1,6 +1,6 @@
 # Crime Record Indexing & Investigation Workflow System
 
-A console-based C++ project built for DSA course at Air University Islamabad.
+A console-based C++ project built for DSA course.
 
 ## Features
 - AVL Tree for crime record storage (O log n operations)
